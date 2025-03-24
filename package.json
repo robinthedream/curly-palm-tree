@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "typescript": "5.8.2"
+  },
+  "dependencies": {
+    "@next/font": "^14.2.15"
+  }
+}
